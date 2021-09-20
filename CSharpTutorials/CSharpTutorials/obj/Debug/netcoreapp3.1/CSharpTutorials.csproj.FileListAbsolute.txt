@@ -1,0 +1,14 @@
+C:\Users\ljtal\Documents\C_Sharp\CSharpTutorials\CSharpTutorials\CSharpTutorials\bin\Debug\netcoreapp3.1\CSharpTutorials.exe
+C:\Users\ljtal\Documents\C_Sharp\CSharpTutorials\CSharpTutorials\CSharpTutorials\bin\Debug\netcoreapp3.1\CSharpTutorials.deps.json
+C:\Users\ljtal\Documents\C_Sharp\CSharpTutorials\CSharpTutorials\CSharpTutorials\bin\Debug\netcoreapp3.1\CSharpTutorials.runtimeconfig.json
+C:\Users\ljtal\Documents\C_Sharp\CSharpTutorials\CSharpTutorials\CSharpTutorials\bin\Debug\netcoreapp3.1\CSharpTutorials.runtimeconfig.dev.json
+C:\Users\ljtal\Documents\C_Sharp\CSharpTutorials\CSharpTutorials\CSharpTutorials\bin\Debug\netcoreapp3.1\CSharpTutorials.dll
+C:\Users\ljtal\Documents\C_Sharp\CSharpTutorials\CSharpTutorials\CSharpTutorials\bin\Debug\netcoreapp3.1\CSharpTutorials.pdb
+C:\Users\ljtal\Documents\C_Sharp\CSharpTutorials\CSharpTutorials\CSharpTutorials\obj\Debug\netcoreapp3.1\CSharpTutorials.csproj.AssemblyReference.cache
+C:\Users\ljtal\Documents\C_Sharp\CSharpTutorials\CSharpTutorials\CSharpTutorials\obj\Debug\netcoreapp3.1\CSharpTutorials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljtal\Documents\C_Sharp\CSharpTutorials\CSharpTutorials\CSharpTutorials\obj\Debug\netcoreapp3.1\CSharpTutorials.AssemblyInfoInputs.cache
+C:\Users\ljtal\Documents\C_Sharp\CSharpTutorials\CSharpTutorials\CSharpTutorials\obj\Debug\netcoreapp3.1\CSharpTutorials.AssemblyInfo.cs
+C:\Users\ljtal\Documents\C_Sharp\CSharpTutorials\CSharpTutorials\CSharpTutorials\obj\Debug\netcoreapp3.1\CSharpTutorials.csproj.CoreCompileInputs.cache
+C:\Users\ljtal\Documents\C_Sharp\CSharpTutorials\CSharpTutorials\CSharpTutorials\obj\Debug\netcoreapp3.1\CSharpTutorials.dll
+C:\Users\ljtal\Documents\C_Sharp\CSharpTutorials\CSharpTutorials\CSharpTutorials\obj\Debug\netcoreapp3.1\CSharpTutorials.pdb
+C:\Users\ljtal\Documents\C_Sharp\CSharpTutorials\CSharpTutorials\CSharpTutorials\obj\Debug\netcoreapp3.1\CSharpTutorials.genruntimeconfig.cache

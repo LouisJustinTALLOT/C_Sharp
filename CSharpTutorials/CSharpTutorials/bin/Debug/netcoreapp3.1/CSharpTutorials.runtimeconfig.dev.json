@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ljtal\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ljtal\\.nuget\\packages"
+    ]
+  }
+}
